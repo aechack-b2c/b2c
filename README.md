@@ -7,6 +7,7 @@ This is the repo for team "Bridge 2 Community" for the [AEC Hackathon version 12
 Our team consists of (listed alphabetically):
 
 | Name | Job Title | Location |
+| --- | --- | --- |
 | Arthur Faudou | Senior Structural Computational Designer | Copenhagen | 
 | Christopher Diggins | Software Developer | Montreal |
 | Emanuele Grimolizzi | Brokonstruktör | Stockholm |
