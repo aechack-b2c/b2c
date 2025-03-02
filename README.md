@@ -2,10 +2,9 @@
 
 This is the repo for team "Bridge 2 Community" for the [AEC Hackathon version 12.1](https://bloxhub.org/aec-hackathon-bloxhub/) hosted at BLOXHUB in Copenhagen betweem February 28th - March 2nd. 
 
-<video width="640" height="360" controls>
-  <source src="[https://your-video-url.mp4](https://github.com/aechack-b2c/b2c/raw/refs/heads/main/assets/Demo%20Video.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+**[Watch the video](https://youtu.be/reiQcTMcBCo)**
+
+![Thumbnail](https://github.com/user-attachments/assets/61058f85-8640-4a41-be0f-fcc74cdf896d)
 
 
 ## Members 
