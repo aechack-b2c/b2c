@@ -29,7 +29,7 @@ impact while improving community accessibility. Proposed solutions may e.g. incl
 
 [Ramboll](https://www.ramboll.com/) provided the following data sets:
 
-A point cloudd scan outside the Ramboll office incl. the metro brigade in front as an E57 file:
+A point cloudd scan (outside the Ramboll office)[https://www.google.com/maps/place/Ramboll+Head+Office/@55.627363,12.5782503,16z] including the metro brigade in front as an E57 file:
 ![image](https://github.com/user-attachments/assets/fb7c386b-0723-4f1b-8774-5c504e134573)
 
 A Grasshopper script for creating a parametric footbridge:
@@ -47,12 +47,14 @@ High resolution elevation data taken from [https://dataforsyningen.dk/data/930]:
 Pedeestrian Route data in CVF form taken from [https://www.vejdirektoratet.dk/side/den-centrale-vej-og-stifortegnelse-cvf}:
 ![image](https://github.com/user-attachments/assets/efaa804c-e87b-4003-8bb0-6caa7f67fb0b)
 
-## Open-Source Technologies Used
+## Additional Data Sets Used
 
-_Todo_
+Cesium source terrain data, imagery, and building geometry attributed to: 
+- © 2025 Microsoft Corporation
+- © 2025 Maxar
+- ©CNES (2025) Distribution Airbus DS
+- Data available from the U.S. Geological Survey, © CGIAR-CSI, Produced using Copernicus data and information funded by the European Union - EU-DEM layers, Data available from Land Information New Zealand, Data available from data.gov.uk, - Data courtesy Geoscience Australia
+- Bing Imagery
+- © OpenStreetMap contributors
 
-## Output
-
-## Next Steps 
-
-_Todo_
+<img width="754" alt="image" src="https://github.com/user-attachments/assets/a1201415-7cab-4cb6-82a7-5ec974b41e1b" />
