@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/efaa804c-e87b-4003-8bb0-6caa7f67fb0b)# Team Bridge 2 Community 
+# Team Bridge 2 Community 
 
 This is the repo for team "Bridge 2 Community" for the [AEC Hackathon version 12.1](https://bloxhub.org/aec-hackathon-bloxhub/) hosted at BLOXHUB in Copenhagen betweem February 28th - March 2nd. 
 
@@ -42,10 +42,10 @@ OBJ files of buildings in South Copenhagen:
 ![image](https://github.com/user-attachments/assets/794acc03-d501-4e28-ab91-320f9eeb799f)
 
 High resolution elevation data taken from [https://dataforsyningen.dk/data/930]:
-![image](https://github.com/user-attachments/assets/bebcb498-1afa-44f3-802c-7900b1691baf)
+![image](https://github.com/user-attachments/assets/68691ea0-c42a-4425-b18f-e38a075ad3c2)
 
 Pedeestrian Route data in CVF form taken from [https://www.vejdirektoratet.dk/side/den-centrale-vej-og-stifortegnelse-cvf}:
-![image](https://github.com/user-attachments/assets/68691ea0-c42a-4425-b18f-e38a075ad3c2)
+![image](https://github.com/user-attachments/assets/efaa804c-e87b-4003-8bb0-6caa7f67fb0b)
 
 ## Open-Source Technologies Used
 
